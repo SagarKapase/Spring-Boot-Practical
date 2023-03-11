@@ -1,6 +1,6 @@
-package SagarKapase;
+package Hello;
 
-public class Kapase {
+public class Main {
     public static void main(String[] args) {
 
     }
